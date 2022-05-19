@@ -43,6 +43,13 @@ Type: Python manage.py startapp App_Name
 ![Screenshot (404)](https://user-images.githubusercontent.com/74084097/169243120-ba9db64f-5707-4543-bf64-7be1fa829cd5.png)
 ![Screenshot (405)](https://user-images.githubusercontent.com/74084097/169243127-24c82a8e-659d-4a8f-8dda-e290761de303.png)
 
+#creating Function Based View in django
+
+![Screenshot (407)](https://user-images.githubusercontent.com/74084097/169245952-cb844f1c-e7a8-40f9-9225-407ae5591241.png)
+![Screenshot (408)](https://user-images.githubusercontent.com/74084097/169245959-e4401851-693e-490f-b266-a8eb63b521ff.png)
+![Screenshot (409)](https://user-images.githubusercontent.com/74084097/169245960-6813921e-34d6-45ae-9e39-265a8ce512a1.png)
+![Screenshot (410)](https://user-images.githubusercontent.com/74084097/169245963-c3d2a593-a79a-4a11-a520-fdbf41e8b1e0.png)
+
 
 
 
