@@ -51,6 +51,11 @@ Type: Python manage.py startapp App_Name
 ![Screenshot (410)](https://user-images.githubusercontent.com/74084097/169245963-c3d2a593-a79a-4a11-a520-fdbf41e8b1e0.png)
 
 
+#Today I learn how to create django_project,how to create multiple apps, how to run server, how django MVT(Model View Template)system works and I learn to create simple django apps.
+
+#Day 1 Completed.....
+
+
 
 
 
