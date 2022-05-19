@@ -1,4 +1,6 @@
 # Learning_django
+![Django](https://user-images.githubusercontent.com/74084097/169236650-05dc1983-4338-4b04-ad4b-a8a005d47306.png)
+
 Date:2078/02/05
 
 Hello! My name is Samyog Bhattarai , I am currently Starting Django.
