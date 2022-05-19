@@ -1,5 +1,6 @@
 # Learning_django
-![Django](https://user-images.githubusercontent.com/74084097/169236650-05dc1983-4338-4b04-ad4b-a8a005d47306.png)
+![70-702409_python-training-in-bangalore-django-logo](https://user-images.githubusercontent.com/74084097/169236956-54343484-b41f-4549-a315-dc4991933fef.png)
+
 
 Date:2078/02/05
 
