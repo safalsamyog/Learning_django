@@ -32,3 +32,11 @@ For Running Django Server: python manage.py runserver
 
 ![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169241224-057fe5b6-7b91-484d-b461-bb23db5652c8.png)
 
+#Creating App in Django
+Type: Python manage.py startapp App_Name
+
+![app](https://user-images.githubusercontent.com/74084097/169242404-e914fcbb-041c-4847-8046-28c196513eab.png)
+
+
+
+
