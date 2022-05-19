@@ -1,3 +1,3 @@
 # Learning_django
-Hello! My name is Samyog Bhattarai currently Starting Django.
+Hello! My name is Samyog Bhattarai , I am currently Starting Django.
 
