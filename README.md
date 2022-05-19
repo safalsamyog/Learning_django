@@ -17,7 +17,7 @@ For installation of django: pip install django
 For craeting Django Project: django-admin  startproject  projectname
 
 For Running Django Server: python manage.py runserver
-![dd](https://user-images.githubusercontent.com/74084097/169243531-32fbcddb-f0c1-43b9-82a2-8e3e70369196.png)
+
 
 ![Screenshot (400)](https://user-images.githubusercontent.com/74084097/169237464-f196ade0-c4af-44d2-b99d-c114469f8ece.png)
 
@@ -34,6 +34,7 @@ For Running Django Server: python manage.py runserver
 ![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169241224-057fe5b6-7b91-484d-b461-bb23db5652c8.png)
 
 #Creating App in Django
+![dd](https://user-images.githubusercontent.com/74084097/169243531-32fbcddb-f0c1-43b9-82a2-8e3e70369196.png)
 
 Type: Python manage.py startapp App_Name
 
