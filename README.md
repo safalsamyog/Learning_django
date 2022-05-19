@@ -33,9 +33,14 @@ For Running Django Server: python manage.py runserver
 ![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169241224-057fe5b6-7b91-484d-b461-bb23db5652c8.png)
 
 #Creating App in Django
+
 Type: Python manage.py startapp App_Name
 
 ![app](https://user-images.githubusercontent.com/74084097/169242404-e914fcbb-041c-4847-8046-28c196513eab.png)
+
+![Screenshot (404)](https://user-images.githubusercontent.com/74084097/169243120-ba9db64f-5707-4543-bf64-7be1fa829cd5.png)
+![Screenshot (405)](https://user-images.githubusercontent.com/74084097/169243127-24c82a8e-659d-4a8f-8dda-e290761de303.png)
+
 
 
 
