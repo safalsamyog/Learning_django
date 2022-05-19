@@ -27,3 +27,8 @@ For Running Django Server: python manage.py runserver
 ![Screenshot (403)](https://user-images.githubusercontent.com/74084097/169237485-27865592-6bbb-46d3-96db-394f02a096b2.png)
 
 #This is process for creating django project and running server
+
+#cheat Sheet for understanding Django Directory System
+
+![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169241224-057fe5b6-7b91-484d-b461-bb23db5652c8.png)
+
