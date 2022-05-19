@@ -12,4 +12,5 @@ This is the working system of Django.
 For installation of django: pip install django
 
 For craeting Django Project: django-admin  startproject  projectname
+
 For Running Django Server: python manage.py runserver
