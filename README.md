@@ -33,6 +33,7 @@ For Running Django Server: python manage.py runserver
 
 ![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169241224-057fe5b6-7b91-484d-b461-bb23db5652c8.png)
 
+
 #Creating App in Django
 ![dd](https://user-images.githubusercontent.com/74084097/169243531-32fbcddb-f0c1-43b9-82a2-8e3e70369196.png)
 
@@ -54,6 +55,16 @@ Type: Python manage.py startapp App_Name
 #Today I learn how to create django_project,how to create multiple apps, how to run server, how django MVT(Model View Template)system works and I learn to create simple django apps.
 
 #Day 1 Completed.....
+
+#Day 2
+
+Today I have learn about Url dispatcher and how to use include function to make app independent.
+
+![tt](https://user-images.githubusercontent.com/74084097/169690618-d32083b6-f930-4dcb-a194-9e634a791638.png)
+
+This are the different method of inculde
+
+
 
 
 
