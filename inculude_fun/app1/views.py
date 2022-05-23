@@ -1,0 +1,10 @@
+from django.shortcuts import render
+from django.http import HttpResponse
+# Create your views here.
+
+def fun1(request):
+	return HttpResponse("<h1>Hello django<h1/>")
+
+def fun2(request):
+	return HttpResponse("<h1>Hello to safal</h1>")
+
