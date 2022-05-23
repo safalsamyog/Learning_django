@@ -34,6 +34,8 @@ For Running Django Server: python manage.py runserver
 ![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169241224-057fe5b6-7b91-484d-b461-bb23db5652c8.png)
 
 
+
+
 #Creating App in Django
 ![dd](https://user-images.githubusercontent.com/74084097/169243531-32fbcddb-f0c1-43b9-82a2-8e3e70369196.png)
 
@@ -63,6 +65,17 @@ Today I have learn about Url dispatcher and how to use include function to make 
 ![tt](https://user-images.githubusercontent.com/74084097/169690618-d32083b6-f930-4dcb-a194-9e634a791638.png)
 
 This are the different method of inculde
+
+
+#Day 3
+
+Today I learn how to use templates files in django project and how make templates for multiple apps and basic of DTL.
+
+![Screenshot (415)](https://user-images.githubusercontent.com/74084097/169805710-be71c712-eaeb-4405-9418-1c6be7585043.png)
+![Screenshot (416)](https://user-images.githubusercontent.com/74084097/169805718-69e4f6e4-a295-4658-8c71-63b03f2e2446.png)
+![Screenshot (417)](https://user-images.githubusercontent.com/74084097/169805721-43ba1e4a-43ce-4ae3-816d-ed85dbe79e4f.png)
+![Screenshot (418)](https://user-images.githubusercontent.com/74084097/169805723-129695fe-7a12-4ccc-b480-13b7e486eead.png)
+
 
 
 
