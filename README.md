@@ -71,6 +71,12 @@ This are the different method of inculde
 
 Today I learn how to use templates files in django project and how make templates for multiple apps and basic of DTL.
 
+#cheat sheet for templates
+![3](https://user-images.githubusercontent.com/74084097/169806972-fc5a25ab-f82a-4c39-b479-39c8f73cdd8a.png)
+![2](https://user-images.githubusercontent.com/74084097/169806982-e093b7bb-4fe7-46ae-8669-dc8506576a9e.png)
+![1](https://user-images.githubusercontent.com/74084097/169806987-edc5b17e-5464-497a-973d-3692c3b55c6b.png)
+
+#Rest Project
 ![Screenshot (415)](https://user-images.githubusercontent.com/74084097/169805710-be71c712-eaeb-4405-9418-1c6be7585043.png)
 ![Screenshot (416)](https://user-images.githubusercontent.com/74084097/169805718-69e4f6e4-a295-4658-8c71-63b03f2e2446.png)
 ![Screenshot (417)](https://user-images.githubusercontent.com/74084097/169805721-43ba1e4a-43ce-4ae3-816d-ed85dbe79e4f.png)
