@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>For tag</title>
+	<style type="text/css">
+		body{
+			background: slateblue;
+		}
+		*{
+			color: whitesmoke;
+			font: sans-serif;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<h1>{{student}}</h1>
+	<!-- for acessing the keys -->
+	<h1>{{student.stu1}}</h1>
+	<h1>{{student.stu1.name}}</h1>
+	<h1>{{student.stu1.class}}</h1>
+	<h1>{{student.stu2.name}}</h1>
+	<h1>{{student.stu2.class}}</h1>
+	<h1>{{student.stu3.name}}</h1>
+	<h1>{{student.stu3.class}}</h1>
+
+{% for keys,values in student.items %}
+	<h1>{{keys}} : {{values}} </h1>
+
+{% endfor %}
+<!-- for now values is a dictionary so gain doing that -->
+{% for keys,values in student.items %}
+	{% for k,v in values.items %}
+		<h1>{{forloop.parentloop.counter}} {{k}}: {{v}} </h1>
+	{% endfor %}
+	
+
+{% endfor %}
+
+
+</body>
+</html>

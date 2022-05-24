@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>if Tag</title>
+	<style type="text/css">
+		body{
+			background: slateblue;
+		}
+		h1{
+			color: whitesmoke;
+			font: sans-serif;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<!-- Note that there should every space otherwise code will be error -->
+	{% if not val %}
+		<h1>We got False</h1>
+	{% endif %}
+	{% if name == 'safal' %}
+		<h1> {{name}}
+	{% endif %}
+
+	{% if name == 'safal' and bool == False %}
+		<h1> {{name}}
+	{% else %}
+		<h1> Both conditon should be satsfied</h1>
+	{% endif %}
+
+	{% if name == 'safal' or bool == False %}
+		<h1> {{name}}
+	{% endif %}
+
+	<div>  
+		{% if age == 18 %}
+			<h1>you are {{age}} so you can vote </h1>
+		{% elif age == 19 %}
+			<h1>you cant vote</h1>
+		{% else %}
+			<h1> you are not a voter </h1>
+		{% endif %}
+	</div>
+	<!-- filter with if tag -->
+	{% if name|lower %}
+		<h1> {{name}} is in lowercase</h1>
+	
+	{% endif %}
+
+
+
+
+</body>
+</html>

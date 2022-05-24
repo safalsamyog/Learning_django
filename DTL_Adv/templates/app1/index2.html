@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Some FIlter in Django Templates Language</title>
+	<style type="text/css">
+		body{
+			background: black;
+		}
+		h1{
+			color: whitesmoke;
+			font: sans-serif;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<h1>{{val1|upper}}</h1>
+	<!-- It capitalize all the words -->
+	<h1>{{val2|lower}}</h1>
+	<!-- This filter lowers all the words -->
+	<h1>{{val1|capfirst}}</h1>
+	<!-- This filter only capatilize the first word -->
+	<h1>{{bool1|default:'Nothing'}}</h1>
+	<!-- This filter return nothing when data is false or empty -->
+	<h1>{{bool2|default:'Nothing'}}</h1>
+	<!-- it will return nothing becuase it is false how it works -->
+	<h1>{{val1|length}}</h1>
+	<!-- This filter tells length of the words or sentences -->
+	<h1>{{country|slice:'2'}}</h1>
+	<!-- This filter slice the charcter from starting and gives sliced output -->
+	<h1>{{val1|truncatechars:5}}</h1>
+	<!-- This truncatechars filter truncate the words and make like this kath..... -->
+	<h1>{{val1|upper|truncatechars:4}}</h1>
+	<!-- we can use multiple filters also -->
+</body>
+</html>

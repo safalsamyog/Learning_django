@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Float Filter</title>
+	<style type="text/css">
+		body{
+			background: slateblue;
+		}
+		h1{
+			color: whitesmoke;
+			font: sans-serif;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<h1>{{val1}}</h1>
+	<h1>{{val2}}</h1>
+	<h1>{{val3}}</h1>
+	<!-- applying float filter -->
+	<br>
+	<h1>{{val1|floatformat}}</h1>
+	<h1>{{val2|floatformat}}</h1>
+	<h1>{{val3|floatformat}}</h1>
+	<!-- its only gives one last decimal digits -->
+	<br>
+	<h1>{{val1|floatformat:3}}</h1>
+	<h1>{{val2|floatformat:3}}</h1>
+	<h1>{{val3|floatformat:3}}</h1>
+	<!-- This shows the number decimals digits -->
+
+	<br>
+	<h1>{{val1|floatformat:0}}</h1>
+	<h1>{{val2|floatformat:0}}</h1>
+	<h1>{{val3|floatformat:0}}</h1>
+	<!-- it also useful to convert float into integer -->
+	<br>
+	<h1>{{val1|floatformat:-3}}</h1>
+	<h1>{{val2|floatformat:-3}}</h1>
+	<h1>{{val3|floatformat:-3}}</h1>
+	<!-- This will shows three roundoff digits it takes neagtive value -->
+
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>For Tag</title>
+	<style type="text/css">
+		body{
+			background: slateblue;
+		}
+		*{
+			color: whitesmoke;
+			font: sans-serif;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<h1>{{name}}</h1>
+		<!-- it is providing list but we dont want so  -->
+		<h2>list</h2>
+	<ul>
+		{% for i in name %}
+			<li>{{i}}</li>
+		{% endfor %}
+	</ul>
+	</div>
+	<!-- For reversing the list -->
+	<ul>
+		{% for i in name reversed %}
+			<li>{{i}}</li>
+
+		{% endfor %}
+	</ul>
+<!-- empty if there is nothing value in varaible we can pass empty-->
+	<ul>
+		{% for i in nam %}
+			<li>{{i}}</li>
+		{% empty %}
+			<h2>Nothing is here</h2>
+	
+		{% endfor %}
+	</ul>
+	<!-- keys and value -->
+
+
+	<!-- Predefined for loop variable -->
+
+	{% for i in name %}
+		<h1>{{forloop.counter}}. {{i}}</h1>
+	
+	
+	{% endfor %}
+	<!-- this forloop counter gives the number-->
+<br>
+	<!-- reverse counter -->
+
+	{% for i in name %}
+		<h1>{{forloop.revcounter}}. {{i}}</h1>
+	
+	
+	{% endfor %}
+<br>
+	<!-- also we can start from zero -->
+	{% for i in name %}
+		<h1>{{forloop.counter0}}. {{i}}</h1>
+	
+	
+	{% endfor %}
+
+
+
+</body>
+</html>
