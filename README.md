@@ -84,7 +84,7 @@ Today I learn how to use templates files in django project and how make template
 
 #Day 4
 
-Today I learn completely about Django Templates Language such as filter , if tag ,  fortag , Time ,date , year , filter etc..
+Today I learn completely about Django Templates Language such as filter , if tag ,  fortag , Time ,date , year , filter etc.. and i learn how use templates in applications
 
 
 ![1](https://user-images.githubusercontent.com/74084097/169994339-201c2696-23fa-491e-bfa2-af1db34968d1.png)
