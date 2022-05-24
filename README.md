@@ -87,6 +87,32 @@ Today I learn how to use templates files in django project and how make template
 Today I learn completely about Django Templates Language such as filter , if tag ,  fortag , Time ,date , year , filter etc..
 
 
+![1](https://user-images.githubusercontent.com/74084097/169992294-2196563f-a37e-4395-a6ba-bf5ed05b6142.png)
+![2XXnQqACfo](https://user-images.githubusercontent.com/74084097/169992303-e72a0ee0-3c13-4c0e-91c1-ea2e0114cc83.png)
+![chrome_2GjcY198dd](https://user-images.githubusercontent.com/74084097/169992310-31707530-e511-4071-a821-5e37e226715e.png)
+![chrome_bguhHKvSco](https://user-images.githubusercontent.com/74084097/169992315-7c4497f4-a3d0-4280-9aff-6433b5ee1410.png)
+![chrome_bitrCYNOZT](https://user-images.githubusercontent.com/74084097/169992320-a12ab744-465f-46d9-bdf8-cc0584b296b3.png)
+![chrome_lHilALF7Sb](https://user-images.githubusercontent.com/74084097/169992325-ed58cb0b-e499-4488-a887-07ebfe3cb7e1.png)
+![chrome_OV40xl8Ved](https://user-images.githubusercontent.com/74084097/169992328-cfebe2a7-aab1-4fdf-a555-6d400310a347.png)
+![chrome_QbHQWoJH6s](https://user-images.githubusercontent.com/74084097/169992334-042506bc-2236-429c-9254-c1d00e72f197.png)
+![chrome_riOs3C2Bap](https://user-images.githubusercontent.com/74084097/169992338-ce41b76e-96d7-409f-9fb8-2bede6cbc93b.png)
+![chrome_XJvmO1jwdk](https://user-images.githubusercontent.com/74084097/169992344-e7fc6903-bfdf-40b1-bc02-7b5762cf18fb.png)
+![CmgvTTOWWx](https://user-images.githubusercontent.com/74084097/169992347-2ff11bf3-d076-415d-a1c4-8b078b2bc2f9.png)
+![DUG9nfFGFo](https://user-images.githubusercontent.com/74084097/169992353-2536144e-3775-4524-92ba-757bcb13267f.png)
+![F5OJ419C54](https://user-images.githubusercontent.com/74084097/169992356-ecaf5dee-6ebe-4210-a1aa-852c96cf1c2e.png)
+![FSLEloSBcs](https://user-images.githubusercontent.com/74084097/169992359-5169ab18-e1c0-442e-88a5-7d6cb3053624.png)
+![gMG3evYiSO](https://user-images.githubusercontent.com/74084097/169992361-b73eb912-690f-4bb9-b68f-e41adc060933.png)
+![hLN22XXvr2](https://user-images.githubusercontent.com/74084097/169992364-991ff506-a669-449c-8086-bb1de5dec902.png)
+![iubitE8FuX](https://user-images.githubusercontent.com/74084097/169992366-5cd13b73-60b2-4b4f-af3e-63208f42a38e.png)
+![QQSjzhhvZo](https://user-images.githubusercontent.com/74084097/169992371-5760275c-7ff7-4684-83d7-3ff6b8f39d0e.png)
+![ShareX_bWgaw5Bobz](https://user-images.githubusercontent.com/74084097/169992375-50303896-4a84-419b-b839-d6503f9e96c6.png)
+![T1tzuOXFW1](https://user-images.githubusercontent.com/74084097/169992380-5430a4c2-7c7a-4f15-b80c-b16430cae8d4.png)
+![tPfdjFTBKw](https://user-images.githubusercontent.com/74084097/169992384-6298f6e1-e742-4cd0-a4b8-040a0064d37a.png)
+![tt](https://user-images.githubusercontent.com/74084097/169992389-34608475-858b-41ef-9b80-80a35f777b8f.png)
+![uMcRPIHLdx](https://user-images.githubusercontent.com/74084097/169992394-6391d041-b71f-44dd-8b35-f1d7e42b43bf.png)
+![ypnYjgYBiw](https://user-images.githubusercontent.com/74084097/169992396-9695b174-50c7-460c-92aa-976295b0fdf1.png)
+![zMRH241JwT](https://user-images.githubusercontent.com/74084097/169992400-0b4e3a37-0745-4296-9826-cd25ff07ff34.png)
+![zudRV9AUOt](https://user-images.githubusercontent.com/74084097/169992405-6aa30df4-2f9d-4d15-914c-0ac610c64e55.png)
 
 
 
