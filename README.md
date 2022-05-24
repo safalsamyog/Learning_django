@@ -87,6 +87,23 @@ Today I learn how to use templates files in django project and how make template
 Today I learn completely about Django Templates Language such as filter , if tag ,  fortag , Time ,date , year , filter etc..
 
 
+![1](https://user-images.githubusercontent.com/74084097/169994339-201c2696-23fa-491e-bfa2-af1db34968d1.png)
+![2XXnQqACfo](https://user-images.githubusercontent.com/74084097/169994350-584ef91b-e71b-4b6b-a060-04d4082c836f.png)
+![chrome_2GjcY198dd](https://user-images.githubusercontent.com/74084097/169994353-9f49282d-eb1f-45db-8e98-8b57a744a684.png)
+![chrome_bguhHKvSco](https://user-images.githubusercontent.com/74084097/169994356-5b129a2f-de5f-417b-ac4f-b570efb46ed9.png)
+![chrome_lHilALF7Sb](https://user-images.githubusercontent.com/74084097/169994361-d8b900ce-7f3b-455e-8f51-fbd838a6f7b3.png)
+![chrome_OV40xl8Ved](https://user-images.githubusercontent.com/74084097/169994363-c873ae9e-9836-4fe8-be6c-a2f2d5f7f98f.png)
+![chrome_QbHQWoJH6s](https://user-images.githubusercontent.com/74084097/169994367-824dbfee-824e-4bc5-a747-9bf777cff8d7.png)
+![chrome_riOs3C2Bap](https://user-images.githubusercontent.com/74084097/169994368-b0feecb6-037a-42a6-a1e4-383d6f4ded0a.png)
+![CmgvTTOWWx](https://user-images.githubusercontent.com/74084097/169994371-0f2a47d2-d04e-4f10-b4d5-5f699cbd4454.png)
+![F5OJ419C54](https://user-images.githubusercontent.com/74084097/169994375-db01ebd3-4038-4a42-a770-93c52f890687.png)
+![FSLEloSBcs](https://user-images.githubusercontent.com/74084097/169994379-36e96bd4-cd19-4511-949f-66025fc87acd.png)
+![gMG3evYiSO](https://user-images.githubusercontent.com/74084097/169994383-82babddf-0143-4f86-a7d5-004783c8e676.png)
+![hLN22XXvr2](https://user-images.githubusercontent.com/74084097/169994388-ded370f7-74d7-4812-92e6-5eb78b9c4443.png)
+![iubitE8FuX](https://user-images.githubusercontent.com/74084097/169994390-db7b1c0e-e635-41c1-99d6-8ecab67de9e0.png)
+![tPfdjFTBKw](https://user-images.githubusercontent.com/74084097/169994393-e4210b07-e238-4304-9d45-890051223aaf.png)
+![uMcRPIHLdx](https://user-images.githubusercontent.com/74084097/169994395-cacd8259-ae06-4840-a4e4-f31839f3cd78.png)
+![zudRV9AUOt](https://user-images.githubusercontent.com/74084097/169994398-e37a5511-6649-4ac3-8fff-e6fd60ca49d2.png)
 
 
 
