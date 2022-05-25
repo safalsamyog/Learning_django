@@ -126,7 +126,13 @@ Today i learn how to put static file in django project, learn to puts static fil
 
 
 
+#Notes we do not need to change in setting while creating static and templates files inside the applications
 
+#This is the way for changing
+
+STATIC_DIR=os.path.join(BASE_DIR,'static')
+
+STATICFILES_DIRS=[STATIC_DIR]
 
 
 
