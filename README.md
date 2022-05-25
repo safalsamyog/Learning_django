@@ -107,6 +107,24 @@ Today I learn completely about Django Templates Language such as filter , if tag
 
 
 
+#Day 5
+
+Today i learn how to put static file in django project, learn to puts static file in application..
+
+{% load static %}
+
+{% static 'path/file' %}
+
+{$ static 'path/file'  as a1 %}
+
+<img src={{a1}}/>
+
+#This is the way to load static files
+
+![Screenshot (419)](https://user-images.githubusercontent.com/74084097/170256440-609f4964-998f-43db-b113-24f9b79fac2c.png)
+![Screenshot (420)](https://user-images.githubusercontent.com/74084097/170256450-0eda5bb3-1d43-4ca0-b092-7dd467ff4a1a.png)
+
+
 
 
 
