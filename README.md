@@ -140,7 +140,7 @@ Today I learn Template inheritance
 
 
 
-#Day7
+
 
 ![4](https://user-images.githubusercontent.com/74084097/170617944-b624cdb3-6327-476a-b378-d62b9318a483.png)
 ![3](https://user-images.githubusercontent.com/74084097/170617949-2f77e64a-9721-4a1e-94a4-f448e22ca76e.png)
@@ -151,5 +151,6 @@ For adding mutliple css and loading css
 ![Screenshot (421)](https://user-images.githubusercontent.com/74084097/170618032-8d0f3a09-bca8-4010-8c9a-cbd5f1a7d06c.png)
 
 
+#Day 7
 
 
