@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>app2</title>
+</head>
+<body>
+	{% url '1' as w %}
+	<a href={{w}}>second</a>
+
+	{% include 'app1/ext.html' with p='django' %}
+</body>
+</html>

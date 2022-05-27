@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>app1</title>
+</head>
+<body>
+	<a href="{% url '2' %}">First {{d}}</a>
+	{% include 'app1/ext.html' with p='django' %}
+	<!-- {% include 'app1/ext.html' with p='django' only %} -->
+	<!-- if we use only we cant use variable where it comes from views -->
+	{% include 'app1/ext.html' with p='django rest' %}
+</body>
+</html>
