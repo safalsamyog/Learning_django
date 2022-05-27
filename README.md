@@ -156,5 +156,13 @@ For adding bootstrap
 
 
 #Day 7
+Today I learn about include tag which is used to inculde html files where we can divide the code so it doesnot goes too much lengthy.
+#we can variable in include tag
+
+{% include 'app1/ext.html' with p='django' %}
+
+{% include 'app1/ext.html' with p='django' only %}![Screenshot (423)](https://user-images.githubusercontent.com/74084097/170626561-ad2dc79a-5c16-41e9-82c8-1e6cc896b6ca.png)
+![Screenshot (424)](https://user-images.githubusercontent.com/74084097/170626567-767d2c0c-602b-4ad2-a333-1459cfd76b54.png)
+
 
 
