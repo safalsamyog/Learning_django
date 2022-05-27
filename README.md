@@ -150,6 +150,10 @@ Today I learn Template inheritance
 For adding mutliple css and loading css
 ![Screenshot (421)](https://user-images.githubusercontent.com/74084097/170618032-8d0f3a09-bca8-4010-8c9a-cbd5f1a7d06c.png)
 
+For adding bootstrap
+![Screenshot (422)](https://user-images.githubusercontent.com/74084097/170618813-e17d385c-7ede-4cee-b884-53193b89089e.png)
+
+
 
 #Day 7
 
