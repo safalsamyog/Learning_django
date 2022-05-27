@@ -165,7 +165,12 @@ Today I learn about include tag which is used to inculde html files where we can
 
 {% include 'app1/ext.html' with p='django' %}
 
-{% include 'app1/ext.html' with p='django' only %}![Screenshot (423)](https://user-images.githubusercontent.com/74084097/170626561-ad2dc79a-5c16-41e9-82c8-1e6cc896b6ca.png)
+{% include 'app1/ext.html' with p='django' only %}
+
+![1U9jYAqP6p](https://user-images.githubusercontent.com/74084097/170627522-622fc0ee-f5ed-4078-8d2e-8cf57a8ed20c.png)
+![chrome_QWTsdAsjNF](https://user-images.githubusercontent.com/74084097/170627527-72a80a70-2788-4fb0-91b6-44993ac1e761.png)
+
+![Screenshot (423)](https://user-images.githubusercontent.com/74084097/170626561-ad2dc79a-5c16-41e9-82c8-1e6cc896b6ca.png)
 ![Screenshot (424)](https://user-images.githubusercontent.com/74084097/170626567-767d2c0c-602b-4ad2-a333-1459cfd76b54.png)
 
 
