@@ -1,0 +1,16 @@
+{% extends 'app1/index.html' %}
+{% load static %}
+{% block css %}
+	{{block.super}}
+	<!-- use super to inherit both css and you  custom css -->
+	<link rel="stylesheet" type="text/css" href="{% static 'css_1/style.css' %}">
+{% endblock css %}
+{% block title %}Child1{% endblock title %}
+
+
+{% block content %} 
+	<<h1>Hello</h1>
+	<button type="button" class="btn btn-primary">Primary</button>
+
+
+{% endblock content %}
