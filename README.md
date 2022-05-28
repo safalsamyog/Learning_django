@@ -173,5 +173,13 @@ Today I learn about include tag which is used to inculde html files where we can
 ![Screenshot (423)](https://user-images.githubusercontent.com/74084097/170626561-ad2dc79a-5c16-41e9-82c8-1e6cc896b6ca.png)
 ![Screenshot (424)](https://user-images.githubusercontent.com/74084097/170626567-767d2c0c-602b-4ad2-a333-1459cfd76b54.png)
 
+#Day 8 
+
+I created a simple project and sucessfully dployes in heroku 
+
+![Screenshot (425)](https://user-images.githubusercontent.com/74084097/170824217-6ed23a23-9594-49a0-abac-27b5759e3ef2.png)
+
+https://mydjangoproj7.herokuapp.com/
+App link
 
 
