@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Okay second model</title>
+</head>
+<body>
+    <table border="2">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <td>Address</td>
+        </tr>
+        {% for data in data %}
+        <tr>
+            <td>{{data.Id}}</td>
+            <td>{{data.name}}</td>
+            <td>{{data.mail}}</td>
+            <td>{{data.address}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
