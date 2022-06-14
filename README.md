@@ -182,4 +182,23 @@ I created a simple project and sucessfully dployes in heroku
 https://mydjangoproj7.herokuapp.com/
 App link
 
+#Day 8
+
+In day 8 i have learn how django model works , how to retrieve data , how to create superuser, migrations and migrate , __str__ method , Model Admin class , admin site registers....
+
+![5SyV1bwBy6](https://user-images.githubusercontent.com/74084097/173504571-9ca858c0-066f-4aba-a8a4-5178f2397adb.png)
+![7JTEev3cR8](https://user-images.githubusercontent.com/74084097/173504580-619435ba-dab4-4d47-b9c0-73073184b101.png)
+![chrome_15Gk7aZg5S](https://user-images.githubusercontent.com/74084097/173504582-7c066f65-9469-4a91-abc3-37d598ba0ddf.png)
+![chrome_EsFC6rYBGQ](https://user-images.githubusercontent.com/74084097/173504585-25b8d2c4-6b8a-4caa-bd5c-637c84d33530.png)
+![chrome_N0wwuHfPxq](https://user-images.githubusercontent.com/74084097/173504588-8aebf9b3-878f-426b-8acb-3a2649982ca9.png)
+![chrome_OHKYp9iqS6](https://user-images.githubusercontent.com/74084097/173504591-f75e939c-915f-4cc9-bb3a-6f721c56d21c.png)
+![chrome_vgFohKRigT](https://user-images.githubusercontent.com/74084097/173504594-726b6205-a5f7-4dd1-b1d9-8b8de7e632a7.png)
+![chrome_ycXYFw9Jem](https://user-images.githubusercontent.com/74084097/173504596-cad18093-fc6a-4834-b5d2-a579950576a6.png)
+![chrome_YwEtKB18Ry](https://user-images.githubusercontent.com/74084097/173504600-517b3281-9632-4c97-854a-b71407d57074.png)
+![chrome_ZjvMkeL0sy](https://user-images.githubusercontent.com/74084097/173504602-eec13ace-2a46-481a-95dd-31e526f46b02.png)
+![HZMKQ3lYmn](https://user-images.githubusercontent.com/74084097/173504604-b865e9ef-df93-4b5b-99bb-a589658d4e72.png)
+![KZgaPpwqBp](https://user-images.githubusercontent.com/74084097/173504605-b8ab417b-107b-4d77-8bd3-414c443f2470.png)
+![Ydv94BcVGc](https://user-images.githubusercontent.com/74084097/173504607-5420a5cf-368b-45ad-8b5f-5dd5dc35f267.png)
+
+
 
