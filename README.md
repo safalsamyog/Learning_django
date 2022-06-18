@@ -213,4 +213,7 @@ Today I learned about django Form Api
 
 ![2TBAPDbjJO](https://user-images.githubusercontent.com/74084097/174426047-517df0a7-c43b-480b-aaaf-bdbeccce3e82.png)
 
+![QKHGOtyWWR](https://user-images.githubusercontent.com/74084097/174426754-105b92d4-3654-4f75-8db8-13638675ec93.png)
+![chrome_UAiIqk6rnq](https://user-images.githubusercontent.com/74084097/174426774-25e99816-b45e-4103-86d5-deb6670a6d4e.png)
+![UX04UWeB0N](https://user-images.githubusercontent.com/74084097/174426840-a6cb32b4-7c9a-412d-b228-550ef4d6451a.png)
 
