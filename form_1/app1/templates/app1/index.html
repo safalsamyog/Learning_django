@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Forms_Api</title>
+</head>
+<body>
+	<form action="" method="get">
+		<table>
+		{{form}}
+	</table>
+	<input type="submit"></input>
+	</form>
+	<br>
+	<form action="" method="get">
+		{{form.as_table}}
+	</form>
+	<br>
+	<form action="" method="get">
+		{{form.as_p}}
+	</form>
+	<br>
+	<form action="" method="get">
+		{{form.as_ul}}
+	</form>
+	<br>
+	<form action="" method="get">
+		{{form.name_of_field}}
+	</form>
+		<br>
+	<!-- for one field -->
+	<form action="" method="get">
+		{{form.name}}
+		{{form.email}}
+	</form>
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+
+
+
+</body>
+</html>
