@@ -200,5 +200,13 @@ In day 8 i have learn how django model works , how to retrieve data , how to cre
 ![KZgaPpwqBp](https://user-images.githubusercontent.com/74084097/173504605-b8ab417b-107b-4d77-8bd3-414c443f2470.png)
 ![Ydv94BcVGc](https://user-images.githubusercontent.com/74084097/173504607-5420a5cf-368b-45ad-8b5f-5dd5dc35f267.png)
 
+#Day 9 
+
+Today I learned about django Form Api 
+
+![09jsREXEm7](https://user-images.githubusercontent.com/74084097/174424689-492cc2f5-8194-4bf1-95d2-f9d6705128e2.png)
+![jrblEZ3Xfh](https://user-images.githubusercontent.com/74084097/174424741-fb419e27-7637-4fa7-850a-e712cbd25b7d.png)
+![RBn6QRnGpf](https://user-images.githubusercontent.com/74084097/174424743-5e8d8d81-0e56-4135-a80a-3cd94ec58db1.png)
+
 
 
