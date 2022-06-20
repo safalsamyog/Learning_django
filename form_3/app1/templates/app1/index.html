@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Render Form FIeld Manually</title>
+</head>
+<body>
+	<form action="" method="get">
+	<div>
+		<label for="id_name">Name: </label>
+		<input type="text" name="name" required id="id_name">
+	</div>
+	<!-- This is hardcode which django create this  -->
+
+	<!-- writing code manually -->
+	<div>
+		<!-- putting the id for label through object of views -->
+		<label for="{{form.name.id_for_label}}">Name: </label>
+			{{form.name}}
+			<!-- this is the way also wriiting the form  -->
+			<input type="submit" name="">
+	</div>
+
+	<div>
+		{{form.name.label}}
+		<br>
+		<!-- for getting name of label -->
+		{{form.name.value}}
+		<!-- for getting value of input -->
+		<br>
+		{{form.name.html_name}}
+		<!-- for getting name of input -->
+		<br>
+		{{form.name.help_text}}
+		<br>
+		{{form.name.field.required}}
+		<!-- if there is required then it will return true  -->
+		<br>
+		{{form.name.label_tag}}
+		<!-- it will show name of the label in html -->
+	</div>
+	</form>
+</body>
+</html>
