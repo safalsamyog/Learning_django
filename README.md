@@ -218,3 +218,12 @@ Today I learned about django Form Api
 ![UX04UWeB0N](https://user-images.githubusercontent.com/74084097/174426840-a6cb32b4-7c9a-412d-b228-550ef4d6451a.png)
 
 ![chrome_MUzxsJLYj5](https://user-images.githubusercontent.com/74084097/174427158-168c214d-ea1b-4f74-a296-8eb2ef284a08.png)
+
+#Day 10 
+
+Today I learn form field render detailly
+
+![chrome_CfdpzHcENr](https://user-images.githubusercontent.com/74084097/174606088-7bb10564-5db7-41fb-8432-097234a155fa.png)
+![chrome_W6dHXST89W](https://user-images.githubusercontent.com/74084097/174606093-efc0943f-6cf8-4579-877b-e65722048c05.png)
+![chrome_xTkjHGwYhn](https://user-images.githubusercontent.com/74084097/174606098-d04cd8dc-33e0-422f-a8eb-21803fccf67f.png)
+
