@@ -227,3 +227,15 @@ Today I learn form field render detailly
 ![chrome_W6dHXST89W](https://user-images.githubusercontent.com/74084097/174606093-efc0943f-6cf8-4579-877b-e65722048c05.png)
 ![chrome_xTkjHGwYhn](https://user-images.githubusercontent.com/74084097/174606098-d04cd8dc-33e0-422f-a8eb-21803fccf67f.png)
 
+#Day 11
+Today i learn about forms filed arguments and widgets
+![chrome_93ULajasGi](https://user-images.githubusercontent.com/74084097/174808851-b105353d-873a-4b31-95da-9ad5fe46d8b6.png)
+![chrome_gFo5KqyhPy](https://user-images.githubusercontent.com/74084097/174808869-3cc60798-800a-4f0d-aa47-5167fca2edc5.png)
+![chrome_jGzTaGql8t](https://user-images.githubusercontent.com/74084097/174808872-f3f159c9-84d3-4d98-acff-5f45bd3f5958.png)
+![chrome_OvMeRxEjp7](https://user-images.githubusercontent.com/74084097/174808874-c08f431f-4f81-4233-a53c-9d2ddc47d0a7.png)
+![chrome_RmAt7GPtWW](https://user-images.githubusercontent.com/74084097/174808876-fa264173-7d6f-403b-9285-de128702e921.png)
+![chrome_WM12KKCICi](https://user-images.githubusercontent.com/74084097/174808880-e37ff4d9-57b1-41a7-87be-9bb483dbd034.png)
+![eeOkWG7efW](https://user-images.githubusercontent.com/74084097/174808883-cb1e8a5a-6116-48ba-bffb-3d2377340caf.png)
+![IFVYVRkyPM](https://user-images.githubusercontent.com/74084097/174808892-7f90aa92-527e-422f-94b0-c32d9d66e540.png)
+![vsoEVhh7CI](https://user-images.githubusercontent.com/74084097/174808894-725aa6e4-4922-4cc5-9420-b9742abe5e28.png)
+
