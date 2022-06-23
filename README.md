@@ -239,3 +239,9 @@ Today i learn about forms filed arguments and widgets
 ![IFVYVRkyPM](https://user-images.githubusercontent.com/74084097/174808892-7f90aa92-527e-422f-94b0-c32d9d66e540.png)
 ![vsoEVhh7CI](https://user-images.githubusercontent.com/74084097/174808894-725aa6e4-4922-4cc5-9420-b9742abe5e28.png)
 
+#Day12
+Today I learn csrf_toekn , post and get method , getting data through form
+![BquOzhr5JW](https://user-images.githubusercontent.com/74084097/175295352-ea30cc71-1fa7-4580-89a1-9b38c5ec89bc.png)
+![chrome_ucTqoDnqHn](https://user-images.githubusercontent.com/74084097/175295362-430e07a5-5fba-44d7-8c7e-ead4911410d1.png)
+![chrome_uoYWfJfXnF](https://user-images.githubusercontent.com/74084097/175295368-f1251d1b-6fc4-4de8-8513-daf532ea2978.png)
+![chrome_W23a95iXWn](https://user-images.githubusercontent.com/74084097/175295375-27204748-dbb5-40ef-8202-606840d3893d.png)
