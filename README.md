@@ -256,9 +256,10 @@ Today I learn about cleaning and validation of forms and deatil about fields
 
 ![brave_K68QIikxcV](https://user-images.githubusercontent.com/74084097/175759870-695b12b7-f396-4cb2-b37f-e042ed6b6739.png)
 ![brave_N4zdCPoqau](https://user-images.githubusercontent.com/74084097/175759873-baa670b5-6ac5-41f9-a765-eda15c0f768a.png)
-![brave_o8J6TAoSvq](https://user-images.githubusercontent.com/74084097/175759874-029cfe73-8266-43b6-b0f9-9be7fe959697.png)
+
 ![brave_u9meFApQRI](https://user-images.githubusercontent.com/74084097/175759875-4de96fde-7e58-471d-b161-b61c2192e3de.png)
 ![chrome_5vLGSqX7YH](https://user-images.githubusercontent.com/74084097/175759876-c6e6c191-f98f-4e74-8183-9ea586ad0291.png)
 ![Db2ZOM0vRh](https://user-images.githubusercontent.com/74084097/175759877-974c75cc-a50c-42c8-8ec9-f4cb23b39365.png)
 ![brave_bwM2sLXK6r](https://user-images.githubusercontent.com/74084097/175759867-f1b9331b-6e7b-463c-8e94-0b450316eaa6.png)
 ![brave_DYvecUVsQU](https://user-images.githubusercontent.com/74084097/175759869-dcc32868-e0b5-413e-ac4f-20823f89aaf9.png)
+![brave_o8J6TAoSvq](https://user-images.githubusercontent.com/74084097/175759874-029cfe73-8266-43b6-b0f9-9be7fe959697.png)
