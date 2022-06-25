@@ -245,3 +245,19 @@ Today I learn csrf_toekn , post and get method , getting data through form
 ![chrome_ucTqoDnqHn](https://user-images.githubusercontent.com/74084097/175295362-430e07a5-5fba-44d7-8c7e-ead4911410d1.png)
 ![chrome_uoYWfJfXnF](https://user-images.githubusercontent.com/74084097/175295368-f1251d1b-6fc4-4de8-8513-daf532ea2978.png)
 ![chrome_W23a95iXWn](https://user-images.githubusercontent.com/74084097/175295375-27204748-dbb5-40ef-8202-606840d3893d.png)
+
+#Day13
+
+Today I learn about cleaning and validation of forms
+
+![1JhEcPbFKP](https://user-images.githubusercontent.com/74084097/175759863-2c183b7c-66b7-44a0-a58a-1776b8f8bf22.png)
+![1TgdsRcFPF](https://user-images.githubusercontent.com/74084097/175759864-2083ebe2-a186-4300-92b5-b918e1dd9732.png)
+![AsnJ8caWU9](https://user-images.githubusercontent.com/74084097/175759865-66a59b36-49fd-4f1a-825c-57a093b3dd6a.png)
+![brave_bwM2sLXK6r](https://user-images.githubusercontent.com/74084097/175759867-f1b9331b-6e7b-463c-8e94-0b450316eaa6.png)
+![brave_DYvecUVsQU](https://user-images.githubusercontent.com/74084097/175759869-dcc32868-e0b5-413e-ac4f-20823f89aaf9.png)
+![brave_K68QIikxcV](https://user-images.githubusercontent.com/74084097/175759870-695b12b7-f396-4cb2-b37f-e042ed6b6739.png)
+![brave_N4zdCPoqau](https://user-images.githubusercontent.com/74084097/175759873-baa670b5-6ac5-41f9-a765-eda15c0f768a.png)
+![brave_o8J6TAoSvq](https://user-images.githubusercontent.com/74084097/175759874-029cfe73-8266-43b6-b0f9-9be7fe959697.png)
+![brave_u9meFApQRI](https://user-images.githubusercontent.com/74084097/175759875-4de96fde-7e58-471d-b161-b61c2192e3de.png)
+![chrome_5vLGSqX7YH](https://user-images.githubusercontent.com/74084097/175759876-c6e6c191-f98f-4e74-8183-9ea586ad0291.png)
+![Db2ZOM0vRh](https://user-images.githubusercontent.com/74084097/175759877-974c75cc-a50c-42c8-8ec9-f4cb23b39365.png)
