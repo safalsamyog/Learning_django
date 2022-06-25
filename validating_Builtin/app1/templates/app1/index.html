@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Complete_Custom_validation</title>
+	<style type="text/css">
+		body{
+			background: black;
+			color: whitesmoke;
+		}
+	</style>
+</head>
+<body>
+	<form action="" method="post" novalidate>
+		{% csrf_token %}
+		{{form.as_p}}
+
+	<input type="submit" value="submit"></input>
+	</form>
+
+	</form>
+	
+</body>
+</html>
