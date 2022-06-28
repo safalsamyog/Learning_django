@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Forms_Field</title>
+	<style type="text/css">
+		body{
+			background: black;
+			color: whitesmoke;
+		}
+		.errorlist{
+			list-style: none;
+			color: red;
+			margin: 0;
+			padding: 0;
+			font-size: 10px;
+
+		}
+	</style>
+</head>
+<body>
+	<form action="" method="post" novalidate>
+		{% csrf_token %}
+		{{form.non_field_error}} 
+		<!-- this is should be top always -->
+		{% for field in form %}
+		<!-- so we can acess label field imput ans error -->
+			<div>
+				<!-- {{field.label_tag}} {{field}} <span class="errorlist">{{field.errors}}</span> -->
+				{{field.label_tag}} {{field}} <span class="errorlist">{{field.errors|striptags}}</span>
+				<!-- striptags allows to put error in left right sides -->
+			
+			{% for error in field.errors %}
+				<span class="errorlist">{{error}}</span>
+			{% endfor %}
+		</div>
+		{% endfor %}
+	
+
+	<input type="submit" value="submit"></input>
+	</form>
+	<form action="" method="post">
+		{{form.as_p}}
+	</form>
+	
+</body>
+</html>
