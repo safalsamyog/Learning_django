@@ -248,7 +248,7 @@ Today I learn csrf_toekn , post and get method , getting data through form
 
 #Day13
 
-Today I learn about cleaning and validation of forms and deatil about fields and password matching project
+Today I learn about cleaning and validation of forms and deatil about fields and password matching project also how to style the error
 
 ![1JhEcPbFKP](https://user-images.githubusercontent.com/74084097/175759863-2c183b7c-66b7-44a0-a58a-1776b8f8bf22.png)
 ![1TgdsRcFPF](https://user-images.githubusercontent.com/74084097/175759864-2083ebe2-a186-4300-92b5-b918e1dd9732.png)
@@ -263,3 +263,16 @@ Today I learn about cleaning and validation of forms and deatil about fields and
 ![brave_bwM2sLXK6r](https://user-images.githubusercontent.com/74084097/175759867-f1b9331b-6e7b-463c-8e94-0b450316eaa6.png)
 ![brave_DYvecUVsQU](https://user-images.githubusercontent.com/74084097/175759869-dcc32868-e0b5-413e-ac4f-20823f89aaf9.png)
 ![brave_o8J6TAoSvq](https://user-images.githubusercontent.com/74084097/175759874-029cfe73-8266-43b6-b0f9-9be7fe959697.png)
+![brave_VTmqmg2eJR](https://user-images.githubusercontent.com/74084097/176128384-9e7c1eba-a88b-4793-98e9-5e887a7ec761.png)
+![brave_w70CByuS1p](https://user-images.githubusercontent.com/74084097/176128392-93dc9370-da46-4b03-9edf-f14033f08f9d.png)
+
+#Day 14
+Today i learn about django model form and learn basic concpet how save , delete  and update
+
+![brave_0HaLeRlEmV](https://user-images.githubusercontent.com/74084097/176128470-a478b425-2cea-4b28-a53f-7c8235a76185.png)
+![brave_C5ptxizNhl](https://user-images.githubusercontent.com/74084097/176128474-3beb9914-7485-4ce3-88a3-8ef4775932ec.png)
+![brave_IClmapK4ip](https://user-images.githubusercontent.com/74084097/176128475-80792258-b2c5-413a-877c-70e5e454be99.png)
+![brave_Tz3uU6S1xT](https://user-images.githubusercontent.com/74084097/176128481-ef750d43-def6-485d-a8b4-2de0ad862c35.png)
+![mQbbdixayh](https://user-images.githubusercontent.com/74084097/176128485-fb3dce95-3a70-48d3-9488-9c31bc7baf46.png)
+![qMYN1xTmTL](https://user-images.githubusercontent.com/74084097/176128488-b2537985-c05a-485c-9309-706532c21b8f.png)
+![VY3mDGlKOK](https://user-images.githubusercontent.com/74084097/176128490-d7cbf29e-78f4-437e-ac25-856fc68b9fda.png)
