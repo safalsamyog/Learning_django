@@ -248,7 +248,7 @@ Today I learn csrf_toekn , post and get method , getting data through form
 
 #Day13
 
-Today I learn about cleaning and validation of forms and deatil about fields
+Today I learn about cleaning and validation of forms and deatil about fields and password matching project
 
 ![1JhEcPbFKP](https://user-images.githubusercontent.com/74084097/175759863-2c183b7c-66b7-44a0-a58a-1776b8f8bf22.png)
 ![1TgdsRcFPF](https://user-images.githubusercontent.com/74084097/175759864-2083ebe2-a186-4300-92b5-b918e1dd9732.png)
