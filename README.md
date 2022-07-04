@@ -287,3 +287,10 @@ Today i learn about the url path converter,custom url sonverter
 ![brave_Kwm7ZElcZv](https://user-images.githubusercontent.com/74084097/177147040-9c7de071-9f3b-4bde-89b6-7209392867c0.png)
 ![brave_tu9jfgrXFF](https://user-images.githubusercontent.com/74084097/177147043-5d242c5a-5392-422f-a228-713f1677022b.png)
 ![pEW6fUcmvu](https://user-images.githubusercontent.com/74084097/177147050-2b21aabc-a25a-4f84-9e3a-15d03f88cad4.png)
+
+#Day 16
+
+Today i have learn slecting django fileds and some inheritance concpets
+![8olnIcpvpa](https://user-images.githubusercontent.com/74084097/177155377-37b73223-6346-41d7-aa53-0fb0edc43c93.png)
+![T0EBdDMOnv](https://user-images.githubusercontent.com/74084097/177155390-a0597080-05ca-44d4-be1a-660cd54c53c3.png)
+![ze1o2gUVLj](https://user-images.githubusercontent.com/74084097/177155395-49ddf286-491d-407f-ad8b-7320b97b006d.png)
