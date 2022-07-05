@@ -290,7 +290,15 @@ Today i learn about the url path converter,custom url sonverter
 
 #Day 16
 
-Today i have learn slecting django fileds and some inheritance concpets
+Today i have learn slecting django fileds and some inheritance concpets and Messages Framework django
 ![8olnIcpvpa](https://user-images.githubusercontent.com/74084097/177155377-37b73223-6346-41d7-aa53-0fb0edc43c93.png)
 ![T0EBdDMOnv](https://user-images.githubusercontent.com/74084097/177155390-a0597080-05ca-44d4-be1a-660cd54c53c3.png)
 ![ze1o2gUVLj](https://user-images.githubusercontent.com/74084097/177155395-49ddf286-491d-407f-ad8b-7320b97b006d.png)
+![bEGxvm6jJj](https://user-images.githubusercontent.com/74084097/177326941-bbfc939b-22c7-46cd-a83b-781576815608.png)
+![brave_AFIjnMEMMf](https://user-images.githubusercontent.com/74084097/177326952-08fcbe93-fa67-4bf8-980a-7f3ba2457d67.png)
+![brave_Gh1w335lbj](https://user-images.githubusercontent.com/74084097/177326956-84be17e2-375e-4642-afda-e2b129424bee.png)
+![brave_nlyed0zy4Y](https://user-images.githubusercontent.com/74084097/177326962-56959345-d6cf-4791-b015-79ed3e495648.png)
+![brave_XiT1Gbmb28](https://user-images.githubusercontent.com/74084097/177326967-9cb5f6f8-0c9e-4ff8-83b6-bd66d4a1c5eb.png)
+![brave_yWH5LshQxu](https://user-images.githubusercontent.com/74084097/177326973-c4e91269-c1f9-4630-abf3-bb803dac117d.png)
+![t3vY7eCOl5](https://user-images.githubusercontent.com/74084097/177326975-38615db1-7f84-4f64-a14c-33412388f2cc.png)
+![Y3iA73ZiHo](https://user-images.githubusercontent.com/74084097/177326980-83941e55-0265-4c05-b8ee-7c21daeb0ed8.png)
