@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+        .success{
+            color:red;
+        }
+
+    </style>
+  </head>
+  <body>
+    <form action="" method="post" novalidate>
+        {% csrf_token %}
+        {% for forms in form2 %}
+            <h3>{{forms.label_tag}} {{forms}} {{forms.errors|striptags}}</h3>
+        {% endfor %}
+        <input type="submit">
+        {% if messages %}
+            {% for msg in messages %}
+                <small {% if msg.tags %} class="{{msg.tags}}" {% endif %}>{{msg}}</small>
+            {% endfor %}
+        {% endif %}
+    </form> 
+    
+  </body>
+</html>

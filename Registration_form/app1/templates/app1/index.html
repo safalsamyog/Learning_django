@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+  </head>
+  <body>
+    <form action="" method="post" novalidate>
+        {% csrf_token %}
+        {% for forms in form %}
+            <h3>{{forms.label_tag}} {{forms}} {{forms.errors|striptags}}</h3>
+        {% endfor %}
+        <input type="submit">
+    </form> 
+    
+  </body>
+</html>
