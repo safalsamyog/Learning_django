@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+
+    <title>DashBoard</title>
+</head>
+
+<body>
+  <h1>You are logged in</h1>
+  <h2>Welcome {{name}}</h2>
+
+  {% if perms.app1.delete_blog %}
+    
+  <input type="button" value="delete"><br>
+  {% else %}
+  <p>No permission is given</p>
+  {% endif %}
+  
+
+  {% if perms.app1.add_blog %}
+    
+  <input type="button" value="Add"><br>
+  {% else %}
+  <p>No permission is given</p>
+  {% endif %}
+  
+  <a href="{% url 'logout' %}">Logout</a>
+</body>
+
+</html>

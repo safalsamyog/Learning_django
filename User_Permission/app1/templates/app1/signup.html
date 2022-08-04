@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+
+    <title>SignUp</title>
+    <style>
+        .success{
+            color:green;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form action="" method="post" novalidate>
+        {% csrf_token %}
+       {% for forms in form %}
+       {{forms.label_tag}} {{forms}} {{forms.errors|striptags}} <br><br>
+       {% endfor %}
+       <input type="submit" value="Signup">
+    </form>
+    {% if messages %}
+        {% for msg in messages %}
+         <small {% if msg.tags %} class="{{msg.tags}}" {% endif %}>{{msg}}</small>
+        {% endfor %}
+    {% endif %}
+    <br>
+    <a href="{% url 'login' %}">login</a>
+</body>
+
+</html>
