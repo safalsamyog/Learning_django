@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+
+    <title>Profile Page</title>
+</head>
+
+<body>
+  <h1>You are logged in</h1>
+  <h2>Welcome {{name}}</h2>
+  <a href="{% url 'logout' %}">Logout</a>
+   <br>
+   <br>
+   <br>
+   <a href="{% url 'changepassword' %}">ChangePassword</a>
+   {% if messages %}
+    {% for msg in messages %}
+      <small>{{msg}}</small>
+    {% endfor %}
+  {% endif %}
+</body>
+
+</html>
