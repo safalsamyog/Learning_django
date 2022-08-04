@@ -302,3 +302,12 @@ Today i have learn slecting django fileds and some inheritance concpets and Mess
 ![brave_yWH5LshQxu](https://user-images.githubusercontent.com/74084097/177326973-c4e91269-c1f9-4630-abf3-bb803dac117d.png)
 ![t3vY7eCOl5](https://user-images.githubusercontent.com/74084097/177326975-38615db1-7f84-4f64-a14c-33412388f2cc.png)
 ![Y3iA73ZiHo](https://user-images.githubusercontent.com/74084097/177326980-83941e55-0265-4c05-b8ee-7c21daeb0ed8.png)
+
+#Day 17
+
+Today i learn about authentication , authorization , how change password with old password , how craete complete signup , login , logout pages
+![5jzRZIWGLT](https://user-images.githubusercontent.com/74084097/182832071-5aa6f1fc-0fdb-4f66-a266-b9dca03ae0d3.png)
+![brave_ARcmDbHh0Q](https://user-images.githubusercontent.com/74084097/182832081-94be7322-da0c-4cad-99ae-cd64936b9d7c.png)
+![brave_DHYsrGbryg](https://user-images.githubusercontent.com/74084097/182832084-4bdf6eb9-6a50-41bb-945b-64f0163c10d4.png)
+![C7X1EkF2EI](https://user-images.githubusercontent.com/74084097/182832091-d28c4fb9-f84e-42c8-bd7a-0de680210d4a.png)
+![JlOiBN8YX9](https://user-images.githubusercontent.com/74084097/182832097-2ea5407f-499a-4a01-8f44-0cd86b7b2ec3.png)
